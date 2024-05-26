@@ -1,2 +1,2 @@
 # Pokemon-App
-A Pokemon Search App Made with HTML,CSS And JavaScript.
+A Pokemon Search App Made with HTML,BootStrap And JavaScript.
